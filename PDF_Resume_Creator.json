@@ -1,0 +1,37 @@
+[
+  {
+   "name": "Reiven Jimmuel F. Cabate",
+   "occupation": "Python Developer",
+   "address": "38 Sibuyan, Brgy. Saint Peter, Quezon City",
+   "number": "09293292278",
+   "email": "reivenjimmuel@gmail.com",
+   "githubAcc": "https://github.com/reivenjimmuel",
+   "summary": " A MTA-certified Python developer and professional scrum master with 6+ years of experience. Inclined to bring effectiveness to TechNo’s front-end development. Driven by passion and innovation, designed and introduced a new and IAC-award-worthy feature to the MailSent tool. Highly skilled in Python coding and scripting, Django framework, and communication."
+  },
+  {
+   "experience": [
+     {
+      "company": "Tech Incorporated",
+      "position": "Python Developer",
+      "year": "May 2019 - Present"
+      }
+    ]
+  },
+  {
+    "education": [
+      {
+        "course": "B.S. in Computer Engineering",
+        "year": "2021 - 2026"
+      }
+    ]
+  },
+  {
+    "skills": [
+      "Python",
+      "Javascript",
+      "CSS3",
+      "Design Skills",
+      "Data Visualization"
+    ]
+  }
+]
